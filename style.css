@@ -19,4 +19,48 @@ color:#F2216E
 }
 .container{
     margin-bottom: 100px;
+
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    color:white;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color:magenta;
+   
+}
+.cat3{
+    background-color:blue;
+   
+}
+.card{
+    border:none;
+    box-shadow: 2px 2px 8px lightgrey;
+     border-radius: 10px;
+}
+#backpack{
+
+    border:none;
+    box-shadow: 2px px 8px lightgrey;
+    border-radius: 10px;
+
+}
+.pink-bg{
+    background-color:#FEEAE9;
+
+}
+#subscribe{
+    height:300px;
+}
+.form-control{
+
+    border-radius: 5px;
+}
+footer p{
+    text-align: center;
 }
